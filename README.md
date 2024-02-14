@@ -1,8 +1,8 @@
 # Docker-Helper-Cmdlets
-Overview
+Overview:
 This PowerShell module, named DockerHelper, provides cmdlets to simplify Docker-related operations such as building Docker images, copying prerequisites, and running Docker containers, both locally and on remote hosts.
 
-Prerequisites
+Prerequisites:
 PowerShell 5.1 or later
 Docker installed on the local or remote host(s)
 Installation
